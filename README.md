@@ -1,4 +1,9 @@
-### Hi there 👋
+# Halo
+Perkenalkan saya 
+
+Saya sampai saat ini menguasai bahasa pemrograman
+
+
 
 <!--
 **yogaardiansyah/yogaardiansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
