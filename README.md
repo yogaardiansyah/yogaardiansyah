@@ -3,7 +3,15 @@ Perkenalkan saya
 
 Saya sampai saat ini menguasai bahasa pemrograman
 
+Sertifikat yang telah saya dapatkan
 
+sertifikat kursus dan pelatihan
+
+sertifikat seminar
+
+sertifikat webinar
+
+Sertifikat yang sudah habis waktunya
 
 <!--
 **yogaardiansyah/yogaardiansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
