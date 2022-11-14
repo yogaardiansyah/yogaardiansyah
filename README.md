@@ -1,5 +1,5 @@
-# Halo
-Perkenalkan saya 
+# Halo Semua
+Perkenalkan saya yoga ardiansyah saya merupakan seorang
 
 Saya sampai saat ini menguasai bahasa pemrograman
 
